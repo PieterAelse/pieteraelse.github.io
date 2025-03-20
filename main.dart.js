@@ -42286,7 +42286,7 @@ s=1
 break
 case 5:g=t.N
 e=t.K
-d=A.ap(["topic","t3st1ng","title",a0,"subtitle",a1,"body",a2,"timestamp",new A.cG(Date.now(),0,!1)],g,e)
+d=A.ap(["topic","all","title",a0,"subtitle",a1,"body",a2,"timestamp",new A.cG(Date.now(),0,!1)],g,e)
 if(n.ax)d.R(0,A.ap(["buttonText",a3,"buttonUrl",a4],g,e))
 c=$.bz
 h=(c==null?$.bz=$.dq():c).dN("[DEFAULT]")
